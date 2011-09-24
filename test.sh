@@ -7,5 +7,4 @@ do
     sleep 0.1
     echo "waiting";
 done
-cd "/media/Program_and_Data/9th sense inc./driving test"
 python create_drive_BT.py
